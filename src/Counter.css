@@ -1,0 +1,13 @@
+.wrapper{
+  height: 100vh;
+  background-color : rgba(145, 255, 0, 0.897);
+}
+.wrapper2{
+  height: 50vh;
+  background-color : rgba(145, 255, 0, 0);
+}
+.count{
+  height: 50px;
+  width: 100px;
+  text-align: center;
+}
